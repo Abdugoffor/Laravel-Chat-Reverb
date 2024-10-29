@@ -1,4 +1,4 @@
-# Laravel Chat Reverb js
+# Laravel Chat Reverb
 
 ```
 composer install
